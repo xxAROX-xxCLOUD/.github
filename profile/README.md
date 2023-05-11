@@ -1,4 +1,3 @@
-<div algin="center">
-  # xxCLOUD
-  <img src="../title.png" />
-</div>
+<p align="center">
+  <img src="https://github.com/xxAROX-xxCLOUD/.github/blob/main/title.png" />
+</p>
